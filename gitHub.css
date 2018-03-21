@@ -1,0 +1,25 @@
+
+#username {
+	width: 50%;
+	margin-bottom: 0.5em;
+}
+
+img {
+	max-width: 50px;
+	max-height: auto;
+	margin-right: 0.3em;
+}
+
+h1 {
+	padding-top: 1em;
+	padding-left: 0.5em;
+}
+
+label {
+	margin-right: 1em;
+}
+
+a {
+	color: black;
+}
+
